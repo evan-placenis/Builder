@@ -1,4 +1,4 @@
-# Builder
+# Builder (Creational)
 
 The Builder design pattern is useful when:
 - The algorithm for creating a complex object should be independent of the parts that make up the object and how they're assembled.

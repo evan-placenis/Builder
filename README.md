@@ -11,7 +11,8 @@ The client creates the Director object and configures it with the desired Builde
 - It isolates code for construction and representation (improves modularity)
 - It gives you finer control over the construction process
 
-#Maze - Builder Example
+# Maze - Builder Example
+
 This program utilizes the builder pattern to construct a maze consisting of rooms, walls and doors of a hypothetical game. These actions are shows by printing messages to the console. The program contains both a concrete mazebuilder and a concrete mazecounter to demonstrate the flexibility and control the individual builders have. While one builder is responsible for building the maze itself, the other builder counts the number of rooms and doors in the maze.
 
 ![image](https://github.com/evan-placenis/Builder/assets/112578037/c3b29ceb-f58c-4431-81c1-c2cfc5a5e695)
